@@ -148,6 +148,14 @@
 
 
 
+@media (min-width: 400px) {
+.theme_bg
+{
+	background-image:url(../images/app751land.jpg) ;
+	background-repeat:no-repeat;
+	background-size:cover;	
+}
+}
 @media (min-width: 100px) and (max-width: 399px) {
 .theme_bg
 {
