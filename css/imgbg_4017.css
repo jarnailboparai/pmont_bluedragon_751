@@ -20,7 +20,7 @@ background-color:#fff;
 
 	background-size:cover;	
 
-	background-position:center;
+	background-position:center ;
 
 }
 
@@ -36,11 +36,11 @@ background-color:#fff;
 
 	background-image:url(../images/4017port.jpg);
 
-	background-repeat:no-repeat;
+	background-repeat:no-repeat !important;
 
-	background-size:cover;	
+	background-size:cover !important;	
 
-	background-position:center;
+	background-position:center !important;
 
 }
 
